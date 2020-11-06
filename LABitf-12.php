@@ -11,16 +11,16 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-5">
-                <img src="imgs/staff3.jpg" style="height: 90%" class="imgs-1">
+                <img src="staff3.jpg" style="height: 90%" class="imgs-1">
             </div>
             <div class="col-sm-3">
-                <img src="imgs/creative.jpg" class="imgs-2">
-                <img src="imgs/creative2.jpg" class="imgs-2">
-                <img src="imgs/creative3.jpg" class="imgs-2">
+                <img src="creative.jpg" class="imgs-2">
+                <img src="creative2.jpg" class="imgs-2">
+                <img src="creative3.jpg" class="imgs-2">
             </div>
             <div class="col-sm-4">
-                <img src="imgs/office5.jpg" class="imgs-3">
-                <img src="imgs/work6.jpg" class="imgs-3">
+                <img src="office5.jpg" class="imgs-3">
+                <img src="work6.jpg" class="imgs-3">
             </div>
         </div>
     </div>
